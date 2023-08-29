@@ -39,6 +39,10 @@ THEN the saved events persist
 
 
 ## Setup
+To clone the repo:
+```
+git clone https://github.com/Jsterling56/Scheduler-Work-day
+```
 
 ## Credits & Resources
 Some code(script.js) taken from (https://github.com/jfisher396/workday-scheduler).
